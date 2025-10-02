@@ -3,7 +3,7 @@
 
 /* ===== typing animation ===== */
 let typed = new Typed(".typing", {
-  strings: ["", "Product Manager", "Designer", "Programmer", "Publisher", "Marketer "
+  strings: ["", "학생", "프로그래밍"
 ],
   typeSpeed: 100,
   BackSpeed: 60,
