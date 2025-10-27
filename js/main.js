@@ -3,11 +3,10 @@
 
 /* ===== typing animation ===== */
 var typed = new Typed(".typing", {
-  strings: ["학생", "AISW학 공부"],
+  strings: ["AISW학 공부"],
   typeSpeed: 100,
   backSpeed: 60,
-  loop: true,
-  showCursor: false
+  loop: true
 });
 
 /* ===== Aside ===== */
