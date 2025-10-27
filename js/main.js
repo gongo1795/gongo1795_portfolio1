@@ -2,11 +2,13 @@
 
 
 /* ===== typing animation ===== */
-let typed = new Typed(".typing", {
-  strings: ["AISW계열 공부"],
+var typed = new Typed(".typing", {
+  strings: ["학생", "AISW학 공부"],
   typeSpeed: 100,
   backSpeed: 60,
-  loop: true
+  loop: true,
+  showCursor: false
+});
 
 })
 /* ===== Aside ===== */
