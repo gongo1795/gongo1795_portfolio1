@@ -3,9 +3,10 @@
 
 /* ===== typing animation ===== */
 var typed = new Typed(".typing", {
-  strings: ["", "AISW학 공부", "Python 배우기", "프로젝트 도전"],
+  strings: ["AISW학 공부"],
   typeSpeed: 50,
-  backSpeed: 30,
+  backSpeed: 5,      // 지우는 속도 더 느리게
+  backDelay: 1000,   // 다 타이핑하고 1초 쉬었다가 지우기 시작
   loop: true
 });
 
