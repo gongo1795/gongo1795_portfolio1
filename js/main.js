@@ -10,7 +10,6 @@ var typed = new Typed(".typing", {
   showCursor: false
 });
 
-})
 /* ===== Aside ===== */
 const nav = document.querySelector(".nav"),
   navList = nav.querySelectorAll("li"),
