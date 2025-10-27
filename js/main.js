@@ -6,7 +6,8 @@ let typed = new Typed(".typing", {
   strings: ["", "AISW계열 공부"],
   typeSpeed: 100,
   BackSpeed: 60,
-  loop: true
+  loop: true,
+  showCursor: false
 })
 /* ===== Aside ===== */
 const nav = document.querySelector(".nav"),
