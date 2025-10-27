@@ -4,8 +4,8 @@
 /* ===== typing animation ===== */
 var typed = new Typed(".typing", {
   strings: ["AISW학 공부"],
-  typeSpeed: 100,
-  backSpeed: 60,
+  typeSpeed: 50,
+  backSpeed: 10,
   loop: true
 });
 
