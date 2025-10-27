@@ -3,8 +3,7 @@
 
 /* ===== typing animation ===== */
 let typed = new Typed(".typing", {
-  strings: ["", "학생", "프로그래밍"
-],
+  strings: ["", "AISW계열 공부"],
   typeSpeed: 100,
   BackSpeed: 60,
   loop: true
