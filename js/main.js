@@ -3,7 +3,7 @@
 
 /* ===== typing animation ===== */
 var typed = new Typed(".typing", {
-  strings: ["AISW학 공부", "Python 배우기", "프로젝트 도전"],
+  strings: ["", "AISW학 공부", "Python 배우기", "프로젝트 도전"],
   typeSpeed: 50,
   backSpeed: 30,
   loop: true
