@@ -3,11 +3,10 @@
 
 /* ===== typing animation ===== */
 let typed = new Typed(".typing", {
-  strings: ["", "AISW계열 공부"],
+  strings: ["준비생", "AISW계열"],
   typeSpeed: 100,
   BackSpeed: 60,
-  loop: true,
-  showCursor: false
+  loop: true
 })
 /* ===== Aside ===== */
 const nav = document.querySelector(".nav"),
